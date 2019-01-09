@@ -1,10 +1,10 @@
 # Address-List-Cpp-
 
 
-COM LIST
+###COM LIST
 
-add--append new address
-sea--search a existed address
-del--delete a existed address
-list--print all of the address
-modi--modify a existed adress
+1. add--append new address
+2. sea--search a existed address
+3. del--delete a existed address
+4. list--print all of the address
+5. modi--modify a existed adress

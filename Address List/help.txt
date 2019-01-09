@@ -1,0 +1,5 @@
+ADD--append new address
+SEA--search a existed address
+DEL--delete a existed address
+LIST--print all of the address
+MODI--modify a existed adress
